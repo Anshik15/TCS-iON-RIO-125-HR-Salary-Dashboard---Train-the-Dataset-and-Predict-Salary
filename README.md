@@ -14,10 +14,7 @@ You are expected to create a dataset of two lakh entries containing the followin
 
  By the end of the project you should be able to do the following:
 
-1.Create a dataset that contains the required details in each entry.
-
-2.Clean the dataset.
-
-3.Sanitize the dataset.
-
+1.Create a dataset that contains the required details in each entry.    
+2.Clean the dataset.    
+3.Sanitize the dataset.   
 4.Train the dataset to predict the salary of a particular HR when they switch jobs.
